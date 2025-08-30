@@ -1,12 +1,9 @@
 ```
-urlshortenerwebapp/
-│── urlshortener/        # Backend project (Spring Boot)
+urlshortenerwebapp       # Backend project (Spring Boot)
 │   └── src/             # Backend source code
-│── frontend/            # Frontend project (React + TailwindCSS)
+│── urlshortener/        # Frontend source code (React + TailwindCSS)
 ```
 
-### **urlshortener/src → backend source code** 
-### **frontend → frontend project folder**
 
 # 🔗 URL Shortener Web App
 
