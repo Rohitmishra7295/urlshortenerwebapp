@@ -1,3 +1,13 @@
+```
+urlshortenerwebapp/
+│── urlshortener/        # Backend project (Spring Boot)
+│   └── src/             # Backend source code
+│── frontend/            # Frontend project (React + TailwindCSS)
+```
+
+### **urlshortener/src → backend source code** 
+### **frontend → frontend project folder**
+
 # 🔗 URL Shortener Web App
 
 A minimal, full-stack URL shortener built with **Spring Boot**, **React**, and **PostgreSQL (pgAdmin)**. Easily shorten long URLs and manage them efficiently with a sleek frontend and robust backend.
